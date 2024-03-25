@@ -1,3 +1,6 @@
+## Restoring Telnet Functionality
+This fork of [homebridge-denon-heos](https://github.com/Martvvliet/homebridge-denon-heos) restores the telnet functionality.
+
 # homebridge-denon-heos
 
 [![NPM version](https://badge.fury.io/js/homebridge-denon-heos.svg)](https://npmjs.org/package/homebridge-denon-heos)
