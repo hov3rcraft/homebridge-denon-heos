@@ -24,9 +24,9 @@
   "author": "Nicolas Neubauer, Mart van Vliet",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Martvvliet/homebridge-denon-heos/issues"
+    "url": "https://github.com/hov3rcraft/homebridge-denon-heos"
   },
-  "homepage": "https://github.com/Martvvliet/homebridge-denon-heos#readme",
+  "homepage": "https://github.com/hov3rcraft/homebridge-denon-heos#readme",
   "engines": {
     "node": ">=9.11.2",
     "homebridge": ">=0.4.53",
@@ -36,6 +36,6 @@
     "node-ssdp": "^4.0.0",
     "request": ">=2.88",
     "xml2js": ">=0.4.23",
-    "telnet-client": ">=1.2.11"
+    "telnet-client": ">=2.2.0"
   }
 }
